@@ -8,10 +8,13 @@ npm run dev
 ###### Run migrations using following command
 php artisan migrate
 
-**Sample page screen shot**
-http://nimb.ws/5CBriW
-http://nimb.ws/j1FcOV
-http://nimb.ws/YbSxaE
+**Sample page screen shot**                                        
+
+http://nimb.ws/5CBriW                                           
+
+http://nimb.ws/j1FcOV                                     
+
+http://nimb.ws/YbSxaE                                            
 
 # webxpay
 
